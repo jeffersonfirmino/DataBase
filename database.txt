@@ -1,0 +1,6 @@
+-Roda por padrão na porta :3306
+
+C:a primeira ação é Create = inserir dados    
+R:A segunda é Read  = pegar dados
+U:terceira coisa Update= modificar e atualizar dados existentes
+D: que vem de delete remover dados existentes
